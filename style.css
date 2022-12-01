@@ -102,7 +102,8 @@ nav ul li a:hover:after{
 /* about section image css */
 #about{
     /* background-color: #1c99fe; */
-    background:linear-gradient(120deg, red 20.69%, #4409e5 50.19%,#1c99fe 79.69%);
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 }
 #about h1{
     color:rgb(98, 84, 5);
@@ -115,7 +116,8 @@ nav ul li a:hover:after{
 }
 
 #projects{
-    background-color: #fda247;
+   background-color: #FBAB7E;
+   background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
 }
 
 #contact h1{
